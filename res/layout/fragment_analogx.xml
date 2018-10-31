@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:scrollbars="UNKNOWN_DATA_0x0" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:paddingBottom="45dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="25dp" android:layout_marginRight="25dp">
+        <TextView android:id="@id/v4a_tv_analogx" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="35dp" android:text="@string/pref_analogx_strength_title" />
+        <ImageView android:id="@id/v4a_iv_knob_bg_3point" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="55dp" android:src="@mipmap/knob_bg_3point" android:layout_below="@id/v4a_tv_analogx" android:layout_centerHorizontal="true" />
+        <ImageView android:id="@id/v4a_iv_knob_point" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="55dp" android:src="@mipmap/knob_point" android:scaleType="matrix" android:layout_below="@id/v4a_tv_analogx" android:layout_centerHorizontal="true" />
+        <com.audlabs.viperfx.widget.TouchRotateButton android:id="@id/v4a_trb_analogx" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="55dp" android:layout_below="@id/v4a_tv_analogx" android:layout_centerHorizontal="true" />
+        <TextView android:id="@id/v4a_tv_analogx_mode_moderate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="25dp" android:layout_below="@id/v4a_tv_analogx" android:layout_centerHorizontal="true" />
+        <TextView android:id="@id/v4a_tv_analogx_mode_slight" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="55dp" android:layout_marginRight="47dp" android:layout_toLeftOf="@id/v4a_tv_analogx_mode_moderate" android:layout_below="@id/v4a_tv_analogx" android:layout_centerHorizontal="true" />
+        <TextView android:id="@id/v4a_tv_analogx_mode_extreme" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="47dp" android:layout_marginTop="55dp" android:layout_toRightOf="@id/v4a_tv_analogx_mode_moderate" android:layout_below="@id/v4a_tv_analogx" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:scrollbars="UNKNOWN_DATA_0x0" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:paddingBottom="45dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="25dp" android:layout_marginRight="25dp">
+        <TextView android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/v4a_tv_vse" android:layout_width="wrap_content" android:layout_height="UNKNOWN_DATA_0x2301" android:layout_marginTop="35dp" android:text="@string/pref_vse_strength_title" />
+        <TextView android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/v4a_tv_vse_val" android:background="@mipmap/input" android:layout_width="UNKNOWN_DATA_0x3201" android:layout_height="UNKNOWN_DATA_0x2301" android:layout_marginRight="15dp" android:layout_alignTop="@id/v4a_tv_vse" android:layout_centerInParent="true" />
+        <com.audlabs.viperfx.widget.TouchRotateButton android:id="@id/v4a_trb_vse" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="25dp" android:layout_below="@id/v4a_tv_vse" android:layout_centerHorizontal="true" />
+        <com.audlabs.viperfx.widget.ProgressBarView android:id="@id/v4a_pbv_vse" android:layout_width="UNKNOWN_DATA_0xe601" android:layout_height="UNKNOWN_DATA_0xe601" android:layout_marginTop="25dp" android:layout_below="@id/v4a_tv_vse" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</ScrollView>

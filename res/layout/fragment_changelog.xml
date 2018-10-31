@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:scrollbars="UNKNOWN_DATA_0x0" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:id="@id/v4a_changelog_txt" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="12dp" android:layout_marginTop="10dp" android:layout_marginRight="12dp" />
+</ScrollView>

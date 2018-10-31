@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/select_effect" android:paddingLeft="15dp" android:paddingRight="15dp" android:clickable="true" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7f01003e">
+    <ImageView android:id="@id/v4a_item_icon" android:layout_width="UNKNOWN_DATA_0x1a01" android:layout_height="UNKNOWN_DATA_0x1a01" android:src="@mipmap/xiaoguozongkaiguan" android:layout_centerVertical="true" />
+    <CheckBox android:id="@id/v4a_item_enable" android:background="@drawable/select_enable" android:layout_width="UNKNOWN_DATA_0x7f01003e" android:layout_height="UNKNOWN_DATA_0x7f01003e" android:layout_marginTop="14dp" android:layout_marginBottom="14dp" android:checked="false" android:button="@f/View_android_theme" android:layout_alignParentRight="true" />
+    <TextView android:textColor="0x106000b" android:gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:id="@id/v4a_item_title" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="20dp" android:text="@string/app_name" android:singleLine="true" android:layout_toLeftOf="@id/v4a_item_enable" android:layout_toRightOf="@id/v4a_item_icon" />
+</RelativeLayout>

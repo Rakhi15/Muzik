@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <android.support.design.widget.AppBarLayout android:theme="@e/ThemeOverlay_AppCompat_Dark_ActionBar" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <android.support.v7.widget.Toolbar android:id="@id/v4a_toolbar" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <CheckBox android:layout_gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/v4a_toolbar_enable" android:background="@drawable/select_enable" android:layout_width="UNKNOWN_DATA_0x3801" android:layout_height="UNKNOWN_DATA_0x1c01" android:layout_marginRight="9dp" android:checked="false" android:button="@f/View_android_theme" />
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+    <FrameLayout android:id="@id/contentFrame" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent" />
+</LinearLayout>

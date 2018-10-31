@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@id/v4a_entry" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@mipmap/start" android:scaleType="fitXY" />
+    <TextView android:textSize="23sp" android:textColor="0x106000b" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="100dp" android:text="@string/app_name" android:layout_alignParentBottom="true" />
+</RelativeLayout>
