@@ -1,4 +1,4 @@
-<h1><span style="color:red;"><b><text color=red>Muzik Sound Project by Rakesh<b></span></h1>
+<center><h1><b><text color=red>Muzik Sound Project by Rakesh<b></span></h1></center>
 
 <b>Based On:</b>
 
