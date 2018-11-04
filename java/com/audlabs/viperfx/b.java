@@ -1,5 +1,5 @@
 package com.audlabs.viperfx;
-
+ 
 public final class b {
     public static final int[] ActionBar = new int[]{me.imid.swipebacklayout.lib.b.height, me.imid.swipebacklayout.lib.b.title, me.imid.swipebacklayout.lib.b.navigationMode, me.imid.swipebacklayout.lib.b.displayOptions, me.imid.swipebacklayout.lib.b.subtitle, me.imid.swipebacklayout.lib.b.titleTextStyle, me.imid.swipebacklayout.lib.b.subtitleTextStyle, me.imid.swipebacklayout.lib.b.icon, me.imid.swipebacklayout.lib.b.logo, me.imid.swipebacklayout.lib.b.divider, me.imid.swipebacklayout.lib.b.background, me.imid.swipebacklayout.lib.b.backgroundStacked, me.imid.swipebacklayout.lib.b.backgroundSplit, me.imid.swipebacklayout.lib.b.customNavigationLayout, me.imid.swipebacklayout.lib.b.homeLayout, me.imid.swipebacklayout.lib.b.progressBarStyle, me.imid.swipebacklayout.lib.b.indeterminateProgressStyle, me.imid.swipebacklayout.lib.b.progressBarPadding, me.imid.swipebacklayout.lib.b.itemPadding, me.imid.swipebacklayout.lib.b.hideOnContentScroll, me.imid.swipebacklayout.lib.b.contentInsetStart, me.imid.swipebacklayout.lib.b.contentInsetEnd, me.imid.swipebacklayout.lib.b.contentInsetLeft, me.imid.swipebacklayout.lib.b.contentInsetRight, me.imid.swipebacklayout.lib.b.elevation, me.imid.swipebacklayout.lib.b.popupTheme, me.imid.swipebacklayout.lib.b.homeAsUpIndicator};
     public static final int[] ActionBarLayout;
